@@ -1,6 +1,6 @@
 name: pod_player
 description: Vimeo and youtube player for flutter, Pod player provides customizable video player controls that support android, ios and web.
-version: 0.2.2
+version: 0.2.3
 homepage: https://github.com/newtaDev/pod_player
 
 environment:
@@ -23,6 +23,3 @@ dev_dependencies:
     sdk: flutter
   very_good_analysis: ^5.0.0+1
 
-screenshots:
-  - description: Pod video player logo
-    path: screenshots/logo.png
